@@ -1,0 +1,16 @@
+
+
+{
+  "done": {
+    "script": "lua:done_check"
+  },
+  "reward": {
+    "script": "lua:delta_health"
+  },
+  "crop": [0, 16, 256, 200],
+
+  "scripts": [
+    "script.lua"
+  ]
+
+}

@@ -1,0 +1,36 @@
+{
+  "info": {
+    "timer": {
+      "address": 16750378,
+      "type": "|d1"
+    },
+    "enemy_health": {
+      "address": 16745154,
+      "type": ">i2"
+    },
+    "health": {
+      "address": 16744514,
+      "type": ">i2"
+    },
+    "score": {
+      "address": 16744936,
+      "type": ">d4"
+    },
+    "dist": {
+      "address": 16744652,
+      "type": ">u2"
+    },
+    "block": {
+      "address": 16744530,
+      "type": ">u2"
+    },
+    "enemy_block": {
+      "address": 16745170,
+      "type": ">u2"
+    },
+    "button": {
+      "address": 16744930,
+      "type": ">d4"
+    }
+  }
+}
